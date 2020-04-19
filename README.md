@@ -16,5 +16,9 @@ adjectives.txt
 names.txt
 taverns.txt
 
+NAMES (funnynames.py)
+characternames.txt
+characteradjectives.txt
+
 ----- 
 currently there's no command arguments (subject to change) so just run it with "python \<scriptname\>" 
