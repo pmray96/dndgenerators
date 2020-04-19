@@ -5,6 +5,7 @@ ezpz python script that makes random names for dnd
 
 if you want to add names to it, add them to the files listed for each generator
 
+
 SHOPS (makemeashop.py)
 adjectives.txt
 names.txt
