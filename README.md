@@ -20,5 +20,8 @@ NAMES (funnynames.py)
 characternames.txt
 characteradjectives.txt
 
+LOOT (giveloot.py)
+loot.txt
+
 ----- 
-currently there's no command arguments (subject to change) so just run it with "python \<scriptname\>" 
+currently there's no command line arguments (subject to change) so just run it with "python \<scriptname\>" 
