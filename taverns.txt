@@ -1,0 +1,8 @@
+Tavern
+Hotel
+Motel
+Inn
+Ye' Old Holiday Inn
+Bar
+Pub
+Sports Bar
