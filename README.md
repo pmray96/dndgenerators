@@ -17,4 +17,4 @@ names.txt
 taverns.txt
 
 ----- 
-currently there's no command arguments (subject to change) so just run it with "python <scriptname>" 
+currently there's no command arguments (subject to change) so just run it with "python \< scriptname \>" 
